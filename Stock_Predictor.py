@@ -147,4 +147,4 @@ if prompt := st.chat_input():
     st.session_state.messages.append({"role": "assistant", "content": msg})
     st.chat_message("assistant").write(msg)
 
-    # API KEY TO USE : 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
+    # API KEY TO USE : <Save your API here>
