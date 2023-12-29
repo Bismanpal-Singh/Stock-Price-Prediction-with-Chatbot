@@ -4,7 +4,7 @@
 
 This is an experimental Streamlit chatbot app built for LLaMA2 (or any other LLM). The app includes session chat history and provides an option to select multiple LLaMA2 API endpoints on Replicate. It uses LSTM model for Stock price predection
 
-Live demo: [Stock-GPT](https://stock-price-prediction-with-chatbot-mdrtj7pujkfyuzq8btzksa.streamlit.app/)
+Live demo: [Stock-GPT](https://github.com/Bismanpal-Singh/Stock-Price-Prediction-with-Chatbot/blob/d862613a91294ab144d41f1ca8bc0c7f6d3c2e8a/image_2023-12-29_193151785.png)
 
 For the LLaMA2 license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
 [More info.](https://ai.meta.com/llama/)
