@@ -1,10 +1,10 @@
-# Stock-GPT Chatbot App with Stock Price Prediction ⚡
+# GPTWealth Wizard Chatbot App with Stock Price Prediction ⚡
 
 ## 🤔 What is this?
 
 This is an experimental Streamlit chatbot app built for LLaMA2 (or any other LLM). The app includes session chat history and provides an option to select multiple LLaMA2 API endpoints on Replicate. It uses LSTM model for Stock price predection
 
-Live demo: [Stock-GPT](https://stock-price-prediction-with-chatbot-mdrtj7pujkfyuzq8btzksa.streamlit.app/)
+Live demo: [GPTWealth Wizard](https://stock-price-prediction-with-chatbot-mdrtj7pujkfyuzq8btzksa.streamlit.app/)
 
 For the LLaMA2 license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
 [More info.](https://ai.meta.com/llama/)
